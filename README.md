@@ -1,4 +1,19 @@
-# 🛒 QuickKirana – Hyperlocal Grocery Delivery Platform
+---
+
+# ✅ 3. Add These 3 Important Files
+
+### ✔️ index.html (basic landing page)
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>QuickKirana</title>
+</head>
+<body>
+  <h1>Welcome to QuickKirana 🛒</h1>
+  <p>Order groceries from nearby stores instantly.</p>
+</body>
+</html># 🛒 QuickKirana – Hyperlocal Grocery Delivery Platform
 
 🚀 A startup-ready hyperlocal grocery delivery platform connecting customers with nearby kirana stores.
 
