@@ -1,4 +1,65 @@
-# QuickKirana 🛒
+# 🛒 QuickKirana – Hyperlocal Grocery Delivery Platform
+
+🚀 A startup-ready hyperlocal grocery delivery platform connecting customers with nearby kirana stores.
+
+---
+
+## 🌐 Live Demo
+👉 https://your-demo-link.com
+
+---
+
+## 📱 Features
+
+- 🛍️ Order groceries from nearby stores
+- 📍 Location-based shop discovery
+- 🤖 AI-powered smart suggestions
+- ⚡ Fast delivery system
+- 🧑‍💼 Vendor dashboard (shop owners)
+- 📦 Order management system
+
+---
+
+## 🧠 Business Idea
+
+QuickKirana solves the problem of slow and inefficient grocery delivery by connecting **local kirana stores directly to customers**.
+
+This model is similar to:
+- Zepto
+- Blinkit
+- Instamart
+
+---
+
+## 💰 Monetization
+
+- Commission per order
+- Subscription for shop owners
+- Delivery charges
+- Ads from local businesses
+
+---
+
+## 📸 Screenshots
+
+(Add your website screenshots here)
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: Java (Spark Framework)
+- API: REST API
+- Hosting: Replit / Cloud
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/rahuldhurke8-create/Quick-kirana-.git
+cd Quick-kirana-# QuickKirana 🛒
 
 🚀 Hyperlocal Grocery Delivery Startup Platform (Website + APK + AI)
 
