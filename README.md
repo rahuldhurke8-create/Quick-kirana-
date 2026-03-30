@@ -1,4 +1,43 @@
+# QuickKirana 🛒
+
+🚀 Hyperlocal Grocery Delivery Startup Platform (Website + APK + AI)
+
 ---
+
+## 📌 Overview
+
+QuickKirana is a modern grocery delivery startup platform designed to connect local kirana stores with nearby customers.
+
+Built for the rapidly growing quick-commerce market, this project includes a functional website with AI-based product recommendations and a scalable business model.
+
+---
+
+## 🔥 Key Features
+
+- Cart & Checkout System  
+- AI-Based Product Recommendations  
+- Location-Based Shop Discovery  
+- UPI Payment System (Demo)  
+- Order Tracking  
+- Mobile-Friendly UI  
+
+---
+
+## 🌐 Live Demo
+
+(Add your live website link here)
+
+---
+
+## 💰 Status
+
+Pre-revenue startup with strong growth potential.
+
+---
+
+## 📞 Sale
+
+This project is available for acquisition on Flippa.---
 
 # ✅ 3. Add These 3 Important Files
 
