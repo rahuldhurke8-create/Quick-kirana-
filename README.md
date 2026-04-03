@@ -1,4 +1,8 @@
-# QuickKirana 🛒
+QuickKirana is a hyperlocal farm-to-home delivery platform that connects customers with nearby shops and farmers.
+
+Customers can order fresh vegetables directly from farmers, view harvest details, and receive deliveries within minutes.
+
+Our platform empowers farmers, supports local businesses, and provides faster, fresher, and more affordable groceries than traditional delivery apps.# QuickKirana 🛒
 
 🚀 Hyperlocal Grocery Delivery Startup Platform (Website + APK + AI)
 
