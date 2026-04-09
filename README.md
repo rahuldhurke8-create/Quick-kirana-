@@ -1,4 +1,4 @@
-QuickKirana is a hyperlocal farm-to-home delivery platform that connects customers with nearby shops and farmers.
+Quickfarm hyperlocal farm-to-home delivery platform that connects customers with nearby shops and farmers.
 
 Customers can order fresh vegetables directly from farmers, view harvest details, and receive deliveries within minutes.
 
